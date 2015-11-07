@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[savage chucky]]></title>
         <description><![CDATA[savage chucky]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/savage-chucky/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 07:19:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 Nov 2015 07:43:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/savage-chucky/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Toby Escape]]></title>
+            <description><![CDATA[<article><h1>Toby Escape</h1><p>https://www.youtube.com/watch?v=J72HEEJ5TXk</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa5dc582-55db-4524-9045-47f1e05a3271.JPG"></article>]]></description>
+            <link>https://thegrid.ai/savage-chucky/toby-escape/index.html</link>
+            <guid isPermaLink="false">8b2d4f8f-41a4-4acb-84aa-983bd3663da7</guid>
+            <pubDate>Sat, 07 Nov 2015 07:43:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[volvox cover one]]></title>
             <description><![CDATA[<article><h1>volvox cover one</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d863c550-c3ed-4277-b5dc-af19ed2cd55a.jpg"></article>]]></description>
-            <link>undefinedvolvox-cover-one/index.html</link>
+            <link>https://thegrid.ai/savage-chucky/volvox-cover-one/index.html</link>
             <guid isPermaLink="false">74b11a70-8864-4c69-a769-8584f9403e14</guid>
             <pubDate>Sat, 07 Nov 2015 07:19:38 GMT</pubDate>
         </item>
